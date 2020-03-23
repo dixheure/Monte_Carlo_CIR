@@ -1,2 +1,2 @@
 # Monte_Carlo_CIR
-Monte Carlo simulation using Cox Ingersoll Ross (CIR) Model
+Rate simulation using Monte Carlo approach based on Cox Ingersoll Ross (CIR) Model
